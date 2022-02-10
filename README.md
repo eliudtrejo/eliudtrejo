@@ -1,4 +1,5 @@
 - 👋 Hola, soy @eliudtrejo
+- Este es mi perfil laboral, mi usuario personal es @eyrockscript
 -  Estoy en constante búsqueda de crecimiento profesional y la mejora de mis aptitudes, así como las de mis compañeros.
 
 <!---
